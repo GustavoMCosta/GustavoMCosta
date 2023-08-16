@@ -1,0 +1,7 @@
+- Olá, Sou o Gustavo e esse é o meu Portifólio.
+- Fiz curso Técnico em Informática pela ETE Faetec Juscelino Kubitschek.
+- Curso Atualmente Análise e Desenvolvimento de Sistemas pela Unigranrio e Ciência da Computação na Descomplica.
+- Possuo Inglês Técnico - Faetec; e Inglês nivel 1 - Sest.
+- Gosto de trabalhar com Harwares mas o meu verdadeiro foco é a Programação!
+- Estou ansioso para começar à estagiar na área.
+- Linkedin: https://www.linkedin.com/in/gustavo-mesquita-3a319767/
